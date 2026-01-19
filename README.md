@@ -12,6 +12,10 @@ You can also manually install it by downloading the archive file from the [Lates
 
 Afterwards, restart Vortex and you can begin installing supported Plants vs Zombies: Replanted mods with Vortex.
 
+## Mod Loader
+
+This extension requires you to install [MelonLoader](https://melonwiki.xyz) for the game. A guide on how to do that can be found [here](https://melonwiki.xyz/#/?id=what-is-melonloader).
+
 ## How to build
 
 To build the extension from source:
