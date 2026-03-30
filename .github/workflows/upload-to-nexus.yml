@@ -1,3 +1,5 @@
+name: Build and Publish to Nexus Mods
+
 on:
   release:
     types: [published]
@@ -5,7 +7,6 @@ on:
 permissions:
   contents: write
 
-name: Build and Publish
 jobs:
   build:
     runs-on: ubuntu-latest
