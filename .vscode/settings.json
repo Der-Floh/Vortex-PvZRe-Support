@@ -1,0 +1,13 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+	"files.exclude": {
+		".pack": true,
+		"node_modules": true,
+	},
+	"search.exclude": {
+		".pack": true,
+		"dist": true,
+		"node_modules": true,
+	},
+	"js/ts.tsc.autoDetect": "off"
+}
