@@ -53,7 +53,6 @@ jobs:
           file_group_id: 2261332
           filename: ${{ steps.pkg.outputs.zip_path }}
           version: ${{ steps.pkg.outputs.version }}
-          display_name: "Plants vs Zombies: Replanted Support v${{ steps.pkg.outputs.version }}"
-          description: |
-            Adds support for Plants vs Zombies: Replanted to Vortex
+          display_name: "Plants vs Zombies Replanted Support v${{ steps.pkg.outputs.version }}"
+          description: Adds support for Plants vs Zombies Replanted to Vortex
           file_category: main
